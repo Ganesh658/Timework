@@ -75,8 +75,8 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> 'testdb.cwch53wmmqrz.us-east-2.rds.amazonaws.com',
-	'username' => 'timework',
-	'password' => 'zd@6UB]7uG=b',
+	'username' => 'root',
+	'password' => 'password',
 	'database' => 'timebiz',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
