@@ -1,0 +1,26 @@
+[07-Jun-2020 06:51:49 Etc/GMT] PHP Fatal error:  Cannot redeclare Home::buycredits() in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/controllers/Home.php on line 573
+[07-Jun-2020 06:53:09 Etc/GMT] PHP Fatal error:  Cannot redeclare Home::buycredits() in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/controllers/Home.php on line 573
+[07-Jun-2020 08:21:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/controllers/Home.php on line 587
+[07-Jun-2020 08:23:43 Etc/GMT] PHP Parse error:  syntax error, unexpected 'row_id' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/home/payu-money.php on line 11
+[07-Jun-2020 11:31:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/my-jobs.php on line 125
+[11-Jun-2020 19:46:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method Recruiter::get_time_ago() in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/controllers/Recruiter.php on line 836
+[11-Jun-2020 19:46:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Recruiter::get_time_ago() in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/controllers/Recruiter.php on line 836
+[13-Jun-2020 10:33:42 Etc/GMT] PHP Fatal error:  Cannot redeclare Sql::getTotalResultsForRec() in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/models/Sql.php on line 613
+[13-Jun-2020 16:32:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/search-results.php on line 126
+[26-Jun-2020 15:39:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:39:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:39:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50
+[26-Jun-2020 15:40:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home1/a9iceonj/public_html/hostgenie.in/projects/jobportal/application/views/jobseeker/ajax-job-details.php on line 50

@@ -1,0 +1,25 @@
+<?php
+defined("BASEPATH") OR exit("No direct script access allowed");
+$route["default_controller"] = "home";
+$route["404_override"] = "";
+$route["translate_uri_dashes"] = FALSE;
+$route["candidate-registration"] = "login/registration/3";
+$route["recruiter-registration"] = "login/registration/5";
+$route['registration/(:any)'] = "login/registration/$1";
+$route["login"] = "login/index";
+$route["forgot-password"] = "login/forgot";
+$route["about-us"] = "home/aboutus";
+$route["feedback"] = "home/contact";
+$route["pricing"] = "home/pricing";
+$route["faqs-candidates"] = "home/faq/6";
+$route["faqs-recruiters"] = "home/faq/7";
+$route['registration-process'] = "home/register";
+$route['registration-process/(:any)'] = "home/register/$1";
+$route['registration-process/(:any)/(:any)'] = "home/register/$1/$2";
+$route['credits'] = "home/credits";
+$route['buy-credits'] = "home/buycredits";
+$route['checkout/(:any)'] = "home/checkout/$1";
+$route['success'] = "home/success";
+$route['failure'] = "home/failure";
+$route["privacy-policy"] = "home/cmsinfo/3";
+$route["terms-conditions"] = "home/cmsinfo/4";

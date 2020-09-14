@@ -1,0 +1,245 @@
+@media screen and (min-width:320px) and (max-width:480px){
+.chosen-container{width: 100%;}
+.postjob{margin-top: 1em;}
+.postfav{margin-bottom: 2em;}
+.postfav a{font-size: 13px;}
+.nopadding{padding-left: 15px;padding-right: 15px;}	
+.martop{margin-top: 2em;}
+/*--APPLEDJOB start--*/	
+.hamster-nav{background-color: #fff;}
+.employee ol li a{font-size: 11px;}
+.career-display:focus{display:inline-block;}
+.mylogo img{width:50%;}
+.arora h4{font-size: 12px;}
+/* .arora img{width: 90%;} */
+.account{padding: 10px 25px 10px 25px;}
+.applyed{padding-bottom: 15px;padding-top: 15px;}
+.dev h4 a {font-size: 13px;}
+.posted-nav-ul li{margin: 0px 5px;float: left;}
+.arora  img{margin: 10px 5px auto;width: 75px;}
+.account-h4{margin: 0px -25px;padding: 8px 25px !important;}
+
+/* .career-nav{display:contents !important;} */
+/*----APPLEDJOB end---*/
+
+/****start dashboard******/
+.board h4 {font-size: 17px;}	
+.board h5 {font-size: 14px;}
+.board1{width: 70%;margin: 5px auto;}
+.board1 img{margin-left: 50px;}
+/****end dashboard******/
+/******START MYACCOUNT*******/
+.basic{margin-top: 10px;}	
+/*******END MYACCOUNT**********/	
+/************START RESUME****************/
+.present1{position: unset;}
+.present1 p{padding-right: 0%;}
+.objective{margin: 15px 0px !important;}
+.details{padding-left: 13.5%;}
+.education1 h4 a{padding-left: 10px;}
+.details-btn1{padding: 7px 15px;margin: 0px 0px;}
+.details-btn2{padding: 7px 15px;margin: 5px 0px;}
+.present-row {
+    margin: 1% 13%;
+    padding-bottom: 0%;
+}
+/************END RESUME****************/	
+	
+
+}
+
+@media screen and (min-width:320px) and (max-width:480px)and (orientation:landscape){
+	.postjob{margin-top: 1em;}
+	.postfav{margin-bottom: 2em;}
+	.postfav a{font-size: 13px;}
+/*--index start--*/	
+
+	/*----index end---*/
+
+
+
+}
+
+@media screen and (min-width:360px) and (max-width:740px){
+	.postjob{margin-top: 1em;}
+	.postfav{margin-bottom: 2em;}
+	.postfav a{font-size: 13px;}
+	/*--index start--*/	
+/* .arora img{width: 95%;} */
+		/*----index end---*/
+/************START RESUME****************/		
+.details{padding-left: 12%;}	
+/************end RESUME****************/	
+/****start dashboard******/
+.board h4 {font-size: 17px;}	
+.board h5 {font-size: 14px;}
+.board1{padding: 25px 0px;margin: 10px 60px;}
+.board1 img{margin-left: 65px;}
+/****end dashboard******/
+
+
+}
+@media screen and (min-width:360px) and (max-width:740px)and (orientation:landscape){
+	/*--APPLEDJOB start--*/	
+.career-display:focus{display:inline-block;}
+.mylogo img{width:75%;}	
+.hamster-nav{background-color: #fff;}
+.employee ol li a{font-size: 11px;}
+.arora h4{font-size: 14px;}
+/* .arora img{width: 90%;margin: 10px 10px auto;} */
+.account{padding: 10px 25px 10px 25px;}
+.applyed{padding-bottom: 15px;padding-top: 15px;}
+.dev h4 a {font-size: 16px;}
+.posted-nav-ul li{ border: 1px solid #ccc !important;  border-radius: 5px;margin: 0px 5px;float: left;}
+.arora img{margin: 10px 10px auto;width: 120px;}
+.account-h4{margin: 0px -25px;padding: 8px 25px !important;}	
+	
+	/*----APPLEDJOB end---*/
+	
+/****start dashboard******/
+.board h4 {font-size: 19px;text-align: center;}	
+.board h5 {font-size: 16px;text-align: center;}
+.board1{width: 30%;margin: 5px auto;}
+.board1 img{margin-left: 50px;}
+/****end dashboard******/	
+	
+	
+	
+	
+	
+/******START MYACCOUNT*******/
+.basic{margin-top: 10px;}	
+/*******END MYACCOUNT**********/
+/************START RESUME****************/
+.present1{position: unset;}
+.present1 p{padding-right: 0%;}
+.objective{margin: 15px 0px !important;}
+.present-row {margin: 1% 6%;padding-bottom: 0%;}
+.details{padding-left: 6%;}
+.education1 h4 a{padding-left: 10px;}
+.details-btn1{padding: 7px 15px;margin: 0px 0px;}
+.details-btn2{padding: 7px 15px;margin: 5px 0px;}
+.objective1{width: 39%;}
+/************END RESUME****************/		
+	
+	
+	
+	
+	
+	
+
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+	/*--APPLEDJOB start--*/	
+.mylogo img{width:70%;}		
+.arora img{margin: 10px 10px auto;width: 30px;}
+.arora h6{font-size: 11px;}
+.arora h4{font-size: 9px;}
+.arora p{font-size: 10px;}
+.account h4 a{font-size: 12px;}
+.account1 h4 a{font-size: 12px;}
+.dev h4 a {font-size: 13px;}
+.dev h3 a {font-size: 11px;}
+/* .del-exp a{font-size: 10px;} */
+
+	/*----APPLEDJOB end---*/	
+	
+/************START RESUME****************/
+.objective1 h4 a {font-size: 12px;}
+.present-row{margin: 4% 0%;padding-bottom: 20%;}
+.present1{position: absolute;left: 10%;top: 7px;}
+.details{padding-left: 9%;}
+/************END RESUME****************/		
+	
+/****start dashboard******/
+
+.board1{width: 100%;margin: 5px auto;}
+.board1 img{margin-left: 25px;}
+.board1 h5 a{font-size: 12px;}
+/****end dashboard******/	
+	
+	
+	
+	
+	
+	
+	
+}
+@media screen and (min-width:768px) and (max-width:1024px)and (orientation:landscape){
+/*--APPLEDJOB start--*/	
+.arora img{margin: 10px 10px auto;width: 50px;}
+.arora h6{font-size: 12px;}
+.arora h4{font-size: 12px;}
+.arora p{font-size: 13px;}
+.account h4 a{font-size: 14px;}
+.account1 h4 a{font-size: 14px;}
+.dev h4 a {font-size: 14px;}
+.dev h3 a {font-size: 13px;}
+.del-sm3 h4 a{font-size: 10px;}
+
+
+	/*----APPLEDJOB end---*/
+/************START RESUME****************/
+.objective1 h4 a {font-size: 9px;}
+.present-row{margin: 4% 0%;padding-bottom: 8%;}
+.present1{position: absolute;left: 8.5%;top: 7px;}
+.details{padding-left: 7%;}
+/************END RESUME****************/	
+	
+}
+@media screen and (min-width:2000px) and (max-width:3000px){
+
+	
+}
+@media screen and (min-width:1200px) and (max-width:1399px){
+
+}
+@media screen and (min-width:1400px) and (max-width:2000px){
+
+}
+@media screen and (min-width:2001px) and (max-width:4000px){
+
+
+}
+@media screen and (min-width:375px) and (max-width:667px){
+	
+}
+@media screen and (min-width:375px) and (max-width:667px)and (orientation:landscape){
+/************START RESUME****************/
+.objective1 h4 a {font-size: 11px;}
+
+/************END RESUME****************/
+	
+	
+
+}
+@media screen and (min-width:414px) and (max-width:736px){
+/************START RESUME****************/
+.objective1{width: 72%;}
+/************END RESUME****************/
+
+
+
+}
+@media screen and (min-width:414px) and (max-width:736px)and (orientation:landscape){
+/************START RESUME****************/
+.objective1{width: 45%;}
+/************END RESUME****************/	
+
+}
+@media screen and (min-width:375px) and (max-width:812px){
+	
+
+}
+@media screen and (min-width:375px) and (max-width:812px)and (orientation:landscape){
+	/************START RESUME****************/
+.objective1 h4 a {font-size: 12px;}
+.present-row{margin: 4% 0%;padding-bottom: 16%;}
+.present1{position: absolute;left: 8.5%;top: 7px;}
+.details{padding-left: 7%;}
+/************END RESUME****************/	
+}
+
+
+
+
